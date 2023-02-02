@@ -1,3 +1,1 @@
-# PropertyWrapperBug
-
-A description of this package.
+https://github.com/apple/swift/issues/63400
